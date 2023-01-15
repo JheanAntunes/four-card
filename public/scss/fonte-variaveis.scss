@@ -1,0 +1,36 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+//fonte
+$fonte-200-400-600:'Poppins', sans-serif;
+
+$fonte-tamanho-h1-h2: 1.3rem;
+$fonte-weight-200:200;
+$fonte-weight-400:400;
+$fonte-weight-600:600;
+
+// Primary
+
+$color-Red: hsl(0, 78%, 62%);
+$color-Cyan: hsl(180, 62%, 55%);
+$color-Orange: hsl(34, 97%, 64%);
+$color-Blue: hsl(212, 86%, 64%);
+
+// ### Neutral
+
+$color-Very-Dark-Blue: hsl(234, 12%, 34%);
+$color-Grayish-Blue: hsl(229, 6%, 66%);
+$color-Very-Light-Gray: hsl(0, 0%, 98%);
+
+
+/*Margin do top section*/
+$margin-top: 2.2rem;
+
+//border-radius
+$border-radius-10px:10px;
+$border-top-5px:5px;
+
+
+/*tamanho do icone*/
+$icone-width:70px;
+$icone-height:70px;
